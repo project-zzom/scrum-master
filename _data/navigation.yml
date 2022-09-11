@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+
+  - title: "도서 정보"
     url: /about/
+  - title: "새소식"
+    url: /posts/
+  - title: "정오표"
+    url: /errata/
