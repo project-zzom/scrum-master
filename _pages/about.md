@@ -7,7 +7,7 @@ header:
 
 # 번역서 정보
 
-![번역서 표지](/assets/images/cover-ko.png)
+![번역서 표지]({{ site.baseurl }}/assets/images/cover-ko.png)
 
 * 글쓴이: 니시무라 나오토, 나가세 미호, 요시바 류타로
 * 그린이: 가메쿠라 히데토
@@ -16,7 +16,7 @@ header:
 
 # 원서 정보
 
-![번역서 표지](/assets/images/cover-ja.png)
+![번역서 표지]({{ site.baseurl }}/assets/images/cover-ja.png)
 
 * 글쓴이: 니시무라 나오토, 나가세 미호, 요시바 류타로
 * 그린이: 가메쿠라 히데토
