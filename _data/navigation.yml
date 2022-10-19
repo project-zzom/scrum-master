@@ -12,6 +12,6 @@ main:
   - title: "정오표"
     url: /errata/
   - title: "크라우드 펀딩"
-    url: https://tumblbug.com/scrum-master    
+    url: /crowd-funding/
   - title: "태스크 보드"
     url: https://github.com/orgs/project-zzom/projects/8
