@@ -59,11 +59,11 @@ plugins:
 author:
   name   : "신상재"
   avatar : "/assets/images/profile-bomber.jpg"
-  bio    : "번역자"
+  bio    : "프로젝트 ZZOM 운영자"
   instagram: "codelabor"
   facebook: "sangjae.shin"
   twitter: "codelabor"
-  youtube: "https://www.youtube.com/c/%EB%B2%88%EC%97%AD%ED%95%98%EB%8A%94%EA%B0%9C%EB%B0%9C%EC%9E%90"
+  youtube: "http://youtube.com/@translating-developer"
   links:
     - label: "Brunch"
       icon: "fas fa-fw fa-link"
