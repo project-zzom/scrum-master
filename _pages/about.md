@@ -28,7 +28,7 @@ gallery:
 * 글쓴이: 니시무라 나오토, 나가세 미호, 요시바 류타로
 * 그린이: 가메쿠라 히데토
 * 옮긴이: 신상재
-* 판매처: 교보문고 / 알라딘 / [네이버 스마트스토어]
+* 판매처: [교보문고] / [알라딘] / [네이버 스마트스토어]
 
 
 
@@ -42,4 +42,6 @@ gallery:
 * 판매처: [Amazon]
 
 [Amazon]: https://www.amazon.co.jp/dp/B086GBXRN6/ref=cm_sw_em_r_mt_dp_G837S51HWFJP8FMA9DAC
+[교보문고]: https://product.kyobobook.co.kr/detail/S000200083569
+[알라딘]: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923
 [네이버 스마트스토어]: https://smartstore.naver.com/zzom
