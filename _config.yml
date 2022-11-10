@@ -65,6 +65,9 @@ author:
   twitter: "codelabor"
   youtube: "http://youtube.com/@translating-developer"
   links:
+    - label: "Project ZZOM"
+      icon: "fas fa-fw fa-link"
+      url: "https://zzom.io"
     - label: "Brunch"
       icon: "fas fa-fw fa-link"
       url: "https://brunch.co.kr/@codelabor"
