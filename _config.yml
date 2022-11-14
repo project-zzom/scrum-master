@@ -65,14 +65,24 @@ author:
   twitter: "codelabor"
   youtube: "http://youtube.com/@translating-developer"
   links:
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
     - label: "Project ZZOM"
       icon: "fas fa-fw fa-link"
       url: "https://zzom.io"
     - label: "Brunch"
       icon: "fas fa-fw fa-link"
       url: "https://brunch.co.kr/@codelabor"
-
-
 
 footer:
 #  links:

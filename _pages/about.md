@@ -1,8 +1,10 @@
 ---
 permalink: /about/
 title: "도서 정보"
+excerpt: "한 번은 겪게 될 스크럼 프로젝트 간접 체험 스토리"
 header:
-  image: /assets/images/header-github-pages.png
+  overlay_image: /assets/images/header-github-pages.png
+  overlay_filter: 0.5
 gallery:
   - url: /assets/images/mockup/book-mockup-2.png
     image_path: /assets/images/mockup/book-mockup-2.png

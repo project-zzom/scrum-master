@@ -1,8 +1,10 @@
 ---
 permalink: /crowd-funding/
 title: "크라우드 펀딩"
+excerpt: "한 번은 겪게 될 스크럼 프로젝트 간접 체험 스토리"
 header:
-  image: /assets/images/header-github-pages.png
+  overlay_image: /assets/images/header-github-pages.png
+  overlay_filter: 0.5
 ---
 
 '출근했더니 스크럼 마스터가 된 건에 관하여'는 텀블벅에서 크라우드 펀딩 되었습니다.
