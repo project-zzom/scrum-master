@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "신상재"
+  name   : "번역하는 개발자"
   avatar : "/assets/images/profile-bomber.jpg"
   bio    : "프로젝트 ZZOM 운영자"
   instagram: "codelabor"
@@ -77,7 +77,7 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-    - label: "Project ZZOM"
+    - label: "ZZOM"
       icon: "fas fa-fw fa-link"
       url: "https://zzom.io"
     - label: "Brunch"
