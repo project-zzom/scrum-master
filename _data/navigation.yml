@@ -9,6 +9,8 @@ main:
 #  - title: "About"
   - title: "도서 정보"
     url: /about/
+  - title: "구매처"
+    url: /shop/    
   - title: "새소식"
     url: /posts/
   - title: "정오표"
