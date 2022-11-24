@@ -1,0 +1,21 @@
+<!-- start custom head snippets -->
+{% if site.google_analytics %}
+{% if jekyll.environment == 'production' %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{site.google_analytics}}');
+</script>
+{% endif %}
+{% endif %}
+{% if site.adsense == "enabled" %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{site.adsense-data-ad-client}}"
+     crossorigin="anonymous"></script>
+{% endif %}
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->

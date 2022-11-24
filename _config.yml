@@ -122,3 +122,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+#### Custom ####  
+
+# Google Analytics
+google_analytics: 'G-FL5818NYCK'
+
+# Google Adsense
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-5050141342916334"
+#adsense-data-ad-slot-vertical: "9543862036"
+#adsense-data-ad-slot-horizontal: "2009821092"
+#adsense-data-ad-slot-square: "1542083085"

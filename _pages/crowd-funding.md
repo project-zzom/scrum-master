@@ -9,6 +9,8 @@ header:
 
 '출근했더니 스크럼 마스터가 된 건에 관하여'는 텀블벅에서 크라우드 펀딩 되었습니다.
 
+![크라우드 펀딩]({{ site.baseurl }}/assets/images/crowdfunding-book.png)
+
 * [텀블벅 크라우드 펀딩 프로젝트]
 * [프로젝트 태스크 보드]
 
