@@ -10,6 +10,7 @@ header:
 '출근했더니 스크럼 마스터가 된 건에 관하여'는 텀블벅에서 크라우드 펀딩 되었습니다.
 
 * [텀블벅 크라우드 펀딩 프로젝트]
+* [프로젝트 태스크 보드]
 
 ### 후원자 리스트
 
@@ -21,3 +22,4 @@ header:
 
 
 [텀블벅 크라우드 펀딩 프로젝트]: https://tumblbug.com/scrum-master
+[프로젝트 태스크 보드]: https://github.com/orgs/project-zzom/projects/8
