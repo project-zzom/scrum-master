@@ -11,8 +11,8 @@ header:
 
 ![크라우드펀딩]({{ site.baseurl }}/assets/images/crowdfunding-book.png)
 
-* [텀블벅 크라우드펀딩 프로젝트]
-* [프로젝트 태스크 보드]
+<a href="https://tumblbug.com/scrum-master" target="_blank" class="btn btn--info">프로젝트 정보</a>
+<a href="https://github.com/orgs/project-zzom/projects/8" target="_blank" class="btn btn--info">태스크보드 현황</a>
 
 ### 후원자 리스트
 
