@@ -43,7 +43,6 @@ header:
 
 ![]({{ site.baseurl }}/images/pixabay/hd-wallpaper-1872682_1280.jpg)
 
-
 * EPUB 전자책이 필요한 경우 <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="btn btn--info">교보문고</a>
 * PDF 전자책이 필요한 경우 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923" target="_blank" class="btn btn--info">알라딘</a> <a href="http://www.yes24.com/Product/Goods/115143425" target="_blank" class="btn btn--info">Yes24</a>
 * 종이책이 바로 필요한 경우: <a href="https://www.kyobobook.co.kr/barodrim" target="_blank" class="btn btn--info">교보문고 바로드림</a>
