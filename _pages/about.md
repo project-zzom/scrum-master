@@ -43,6 +43,12 @@ gallery:
 * 그린이: 亀倉秀人
 * 판매처 <a href="https://www.amazon.co.jp/dp/B086GBXRN6/ref=cm_sw_em_r_mt_dp_G837S51HWFJP8FMA9DAC" target="_blank" class="btn btn--info">Amazon</a>
 
+## 관련 굿즈
+
+![]({{ site.baseurl }}/assets/images/goods/planning-hwatu.png)
+
+* 플래닝 화투 <a href="http://zzom.io/planning-hwatu" target="_blank" class="btn btn--info">공식 페이지</a>
+
 [Amazon]: https://www.amazon.co.jp/dp/B086GBXRN6/ref=cm_sw_em_r_mt_dp_G837S51HWFJP8FMA9DAC
 [교보문고]: https://product.kyobobook.co.kr/detail/S000200083569
 [알라딘]: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923
