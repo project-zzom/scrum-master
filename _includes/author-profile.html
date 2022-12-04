@@ -22,6 +22,8 @@
     {% endif %}
   </div>
 
+  <hr/>
+
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
@@ -242,5 +244,10 @@
 
       {% include author-profile-custom-links.html %}
     </ul>
+  </div>
+  <hr/>
+  <p>관련 굿즈</p>
+  <div style="padding-right: 2em;">
+  <a href="https://zzom.io/planning-hwatu" target="_blank"><img src="{{ site.baseurl }}/assets/images/goods/planning-hwatu.png"></a>
   </div>
 </div>
