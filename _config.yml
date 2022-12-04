@@ -58,6 +58,7 @@ plugins:
 
 author:
   name   : "번역하는 개발자"
+  email: codelabor@gmail.com  
   avatar : "/assets/images/profile-bomber.jpg"
   bio    : "프로젝트 ZZOM 운영자"
   instagram: "codelabor"
@@ -77,9 +78,6 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
-    - label: "ZZOM"
-      icon: "fas fa-fw fa-link"
-      url: "https://zzom.io"
     - label: "Brunch"
       icon: "fas fa-fw fa-link"
       url: "https://brunch.co.kr/@codelabor"
