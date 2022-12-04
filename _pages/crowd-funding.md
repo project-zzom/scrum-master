@@ -1,17 +1,17 @@
 ---
 permalink: /crowd-funding/
-title: "크라우드 펀딩"
+title: "크라우드펀딩"
 excerpt: "한 번은 겪게 될 스크럼 프로젝트 간접 체험 스토리"
 header:
   overlay_image: /assets/images/header-github-pages.png
   overlay_filter: 0.5
 ---
 
-'출근했더니 스크럼 마스터가 된 건에 관하여'는 텀블벅에서 크라우드 펀딩 되었습니다.
+'출근했더니 스크럼 마스터가 된 건에 관하여'는 텀블벅에서 크라우드펀딩 되었습니다.
 
-![크라우드 펀딩]({{ site.baseurl }}/assets/images/crowdfunding-book.png)
+![크라우드펀딩]({{ site.baseurl }}/assets/images/crowdfunding-book.png)
 
-* [텀블벅 크라우드 펀딩 프로젝트]
+* [텀블벅 크라우드펀딩 프로젝트]
 * [프로젝트 태스크 보드]
 
 ### 후원자 리스트
@@ -23,5 +23,5 @@ header:
 그리고 15명의 익명 후원자님
 
 
-[텀블벅 크라우드 펀딩 프로젝트]: https://tumblbug.com/scrum-master
+[텀블벅 크라우드펀딩 프로젝트]: https://tumblbug.com/scrum-master
 [프로젝트 태스크 보드]: https://github.com/orgs/project-zzom/projects/8
