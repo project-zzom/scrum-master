@@ -7,6 +7,17 @@ header:
   overlay_filter: 0.5
 ---
 
+## 자사 스토어
+
+![]({{ site.baseurl }}/assets/images/shop/ZZOM store.png)
+
+<a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info">ZZOM 스토어</a>
+
+기본 조건은 온/오프라인 서점과 같습니다.
+
+* 기본 10% 할인 (추가 5% 간접 할인)
+* 배송료 무료 (도서 산간지역 제외)
+* 문화비 소득공제 신청 가능
 
 ## 온/오프라인 서점
 
@@ -21,23 +32,7 @@ header:
 * 문화비 소득공제 신청 가능
 * 플랫폼 자체 혜택
 
-## 자사 스토어
 
-![]({{ site.baseurl }}/images/pixabay/library-1124718_1280.jpg)
-
-<a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info">ZZOM 스토어</a>
-
-기본 조건은 온/오프라인 서점과 같습니다.
-
-* 기본 10% 할인 (추가 5% 간접 할인)
-* 배송료 무료 (도서 산간지역 제외)
-* 문화비 소득공제 신청 가능
-
-아래의 경우는 project.zzom@gmail.com으로 문의주세요.
-
-* 온/오프라인 서점에 없는 구성(굿즈, 패키지)이 필요한 경우
-* 도서 납품을 위한 도매 주문이 필요한 경우
-* 대량 주문이 필요한 경우
 
 ## 구매처 정하는 방법
 
