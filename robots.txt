@@ -1,7 +1,8 @@
-User-agent: Googlebot
-Disallow:
+---
+permalink: /robots.txt
+---
 
-User-agent: Googlebot-image
-Disallow:
+User-agent: *
+Allow: /
 
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{site.url}}{{site.baseurl}}/sitemap.xml
