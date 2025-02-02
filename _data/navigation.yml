@@ -7,11 +7,14 @@ main:
 #    url: /tags/
 #  - title: "About"
 #  - title: "About"
-  - title: "ZZOM"
-    url: https://zzom.io
-    target: "_blank" # custom
+#  - title: "ZZOM"
+#    url: https://zzom.io
+#    target: "_blank" # custom
   - title: "도서 정보"
     url: /about/
+  - title: "관련 소식"
+    url: "https://zzom.io/categories#%EC%8A%A4%ED%81%AC%EB%9F%BC"
+    target: "_blank"    
   - title: "구매처"
     url: /shop/    
 #  - title: "새소식"

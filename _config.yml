@@ -8,20 +8,46 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+
+# Theme settings
+minimal_mistakes_skin: default
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: ZZOM
+
+locale: ko
 title: 출근했더니 스크럼 마스터가 된 건에 관하여
-email: project.zzom@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+subtitle: 도서 지원 페이지
+name: 프로젝트 ZZOM
+description: >- # this means to ignore newlines
   번역서 '출근했더니 스크럼 마스터가 된 건에 관하여' 도서 지원 페이지입니다.
-# twitter_username: username
-# github_username: username
-minimal_mistakes_skin: default
+logo: "assets/images/logo/zzom-logo-dark (48 x 48).png"
+breadcrumbs: false
+copyright: ZZOM
+copyright_url: "https://zzom.io"
 search: true
+search_full_content: true
+search_provider: google
+google:
+  search_engine_id: 81076b913b4ac4dd3
+  instant_search: true
+
+# SEO Related
+google_site_verification: kouqY7OdX5bp6dgYP7opGr9NPws1zE_Dkz9ZuWFDHqw
+bing_site_verification:
+naver_site_verification: 81a9305f4317935f1bb5348e7e02bc6b9f2f3fba
+
+# Social sharing
+twitter:
+  username: project_zzom
+facebook:
+  username: project.zzom
+  app_id: 1333407193978535
+  publisher: https://www.facebook.com/project.zzom
+og_image: "/assets/images/cover/cover-front-ko.jpg"
 
 # Build settings
 markdown: kramdown
@@ -47,53 +73,107 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+#author:
+#  name: "번역하는 개발자"
+#  avatar: "/assets/images/profile/profile-translator.jpg"
+#  bio: "프로젝트 ZZOM 운영자"
+#  location: "대한민국"
+#  links:
+#    - label: "X"
+#      icon: "fa-brands fa-x-twitter"
+#      url: "https://x.com/codelabor"
+#    - label: "Bluesky"
+#      icon: "fa-brands fa-bluesky"
+#      url: "https://bsky.app/profile/codelabor.bsky.social"    
+#    - label: "Thread"
+#      icon: "fa-brands fa-threads"
+#      url: "https://www.threads.net/@codelabor"       
+#    - label: "Instagram"
+#      icon: "fa-brands fa-square-instagram"
+#      url: "https://www.instagram.com/codelabor"
+#    - label: "Facebook"
+#      icon: "fa-brands fa-facebook"
+#      url: "https://www.facebook.com/sangjae.shin"
+#    - label: "YouTube"
+#      icon: "fa-brands fa-youtube"
+#      url: "http://youtube.com/@translating-developer" 
+#    - label: "TikTok"
+#      icon: "fa-brands fa-tiktok"
+#      url: "https://www.tiktok.com/@translating_developer"
+#    - label: "Email"
+#      icon: "fa-solid fa-envelope"
+#      url: "mailto:codelabor@gmail.com"
+#    - label: "GitHub"
+#      icon: "fa-brands fa-github"
+#      url: "https://github.com/codelabor"
+#     - label: "News Letter"
+#       icon: "fa-solid fa-link"
+#       url: "https://project-zzom.stibee.com/"       
+#     - label: "Littly"
+#       icon: "fa-solid fa-link"
+#       url: "https://litt.ly/codelabor"
+       
+# target="_blank" 되지 않음
+footer:
+ links:
+  - label: "ZZOM"
+    icon: "fa-solid fa-house"
+    url: "https://zzom.io"
+  - label: "X"
+    icon: "fa-brands fa-x-twitter"
+    url: "https://x.com/project_zzom/"
+  - label: "Bluesky"
+    icon: "fa-brands fa-bluesky"
+    url: "https://bsky.app/profile/project-zzom.bsky.social"    
+  - label: "Thread"
+    icon: "fa-brands fa-threads"
+    url: "https://www.threads.net/@project.zzom"       
+  - label: "Instagram"
+    icon: "fa-brands fa-square-instagram"
+    url: "https://www.instagram.com/project.zzom/"
+  - label: "Facebook"
+    icon: "fa-brands fa-facebook"
+    url: "https://www.facebook.com/project.zzom/"
+  - label: "YouTube"
+    icon: "fa-brands fa-youtube"
+    url: "https://www.youtube.com/@zzom/" 
+  - label: "TikTok"
+    icon: "fa-brands fa-tiktok"
+    url: "https://www.tiktok.com/@project.zzom"     
+  - label: "GitHub"
+    icon: "fa-brands fa-github"
+    url: "https://github.com/project-zzom"
+  - label: "Email"
+    icon: "fa-solid fa-envelope"
+    url: "mailto:project.zzom@gmail.com"    
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
+  - jemoji
 
-author:
-  name   : "번역하는 개발자"
-  email: codelabor@gmail.com
-  avatar : "/assets/images/profile-bomber.jpg"
-  bio    : "프로젝트 ZZOM 운영자"
-  instagram: "codelabor"
-  facebook: "sangjae.shin"
-  twitter: "codelabor"
-  youtube: "http://youtube.com/@translating-developer"
-  links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
-    - label: "Brunch"
-      icon: "fas fa-fw fa-link"
-      url: "https://brunch.co.kr/@codelabor"
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jemoji  
 
-footer:
-#  links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -114,20 +194,12 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-
 #### Custom ####  
+email: project.zzom@gmail.com
 
-# Google Analytics
+# google
 google_analytics: 'G-FL5818NYCK'
-
-# Google Adsense
+google_tag_manager: 'GTM-W52NS3HZ'
 adsense: "enabled"
 adsense-data-ad-client: "ca-pub-5050141342916334"
 #adsense-data-ad-slot-vertical: "9543862036"
