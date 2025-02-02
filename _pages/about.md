@@ -28,20 +28,17 @@ gallery:
   - url: /assets/images/mockup/mockup-09.jpg
     image_path: /assets/images/mockup/mockup-09.jpg    
 ---
-## 책 소개
+## 책 내용 안내
 
 {% include video id="ozWDQ7vjUjE" provider="youtube" %}
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
 
-### ZZOM 스토어
 <a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327304887" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://www.coupang.com/vp/products/7818693366" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
+<a href="https://link.coupang.com/a/ccyOfd" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/443611" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/pl3tb9" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
-
-### 온오프라인 서점
 <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
 <a href="https://www.yes24.com/Product/Goods/115143425" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
@@ -116,7 +113,7 @@ gallery:
 * 옮긴이: 신상재
 * 판매처: <a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327304887" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://www.coupang.com/vp/products/7818693366" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
+<a href="https://link.coupang.com/a/ccyOfd" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/443611" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/pl3tb9" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
@@ -439,7 +436,7 @@ gallery:
 
 ## 관련 영상
 
-### 스크럼 마스터
+■ 스크럼 마스터
 
 {% include video id="1MKcUR5OLvg" provider="youtube" %}
 
@@ -452,7 +449,7 @@ gallery:
 {% include video id="d1VxtdMCe_M" provider="youtube" %}
 
 
-### 플래닝 화투
+■ 플래닝 화투
 
 {% include video id="XDZskOSVSnk" provider="youtube" %}
 
@@ -462,35 +459,12 @@ gallery:
 
 {% include video id="gyZwlwylPPY" provider="youtube" %}
 
-### 개발자 팔찌
+■ 개발자 팔찌
 
 {% include video id="alP4ChLcxUw" provider="youtube" %}
 
-### 스크럼 마스터 + 플래닝 포커 + 개발자 팔찌
+■ 스크럼 마스터 + 플래닝 포커 + 개발자 팔찌
 
 {% include video id="fTM9G8UokRI" provider="youtube" %}
 
----
-
-## 관련 굿즈
-
-### 개발자 팔찌
-![Goods 1]({{ site.url }}{{ site.baseurl }}/assets/images/goods/developer-silicon-wristband (1024 x 1024).png){: .align-center}
-* 판매처: 크라우드펀딩 사은품 (비매품)
-
-### 플래닝 화투
-![Goods 2]({{ site.url }}{{ site.baseurl }}/assets/images/goods/planning-hwatu  (1024 x 1024).png){: .align-center}
-* 공식 페이지: <a href="http://zzom.io/planning-hwatu" target="_blank" class="btn btn--info">바로가기</a>
-* 판매처: <a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
-<a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://www.coupang.com/vp/products/7818693397" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
-<a href="https://service.toss.im/shopping/p/526653" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
-<a href="https://posty.pe/5h5eqy" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
-
-### 스크럼 마스터 + 플래닝 화투 + 개발자 팔찌
-![Goods 3]({{ site.url }}{{ site.baseurl }}/assets/images/goods/book + card + wristband (1024 x 1024).png){: .align-center}
-* 판매처: <a href="https://smartstore.naver.com/zzom/products/9369262815" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
-<a href="https://store.kakao.com/zzom/products/327309340" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://www.coupang.com/vp/products/7818693379" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
-<a href="https://service.toss.im/shopping/p/609763" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
-<a href="https://posty.pe/nziyog" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
+{% include custom/affiliate.html %}

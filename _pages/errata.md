@@ -9,7 +9,7 @@ header:
 toc: true
 toc_sticky: true
 ---
-## 오탈자
+## 오탈자 안내
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/thumbnail/girl-reading-book-white-hoodie.png)
 
