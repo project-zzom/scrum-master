@@ -1,6 +1,7 @@
 ---
 permalink: /crowdfunding/
 title: "크라우드펀딩"
+canonical_url: "https://zzom.io/scrum-master/crowdfunding/"
 excerpt: "쉽고 빠르게 디지털 페인팅 입문하기"
 header:
   og_image: /assets/images/crowdfunding/crowdfunding-closed-1.png

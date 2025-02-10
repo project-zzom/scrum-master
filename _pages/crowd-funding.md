@@ -1,6 +1,7 @@
 ---
 permalink: /crowd-funding/
 title: "크라우드펀딩"
+canonical_url: "https://zzom.io/scrum-master/crowdfunding/"
 excerpt: "한 번은 겪게 될 스크럼 프로젝트 간접 체험 스토리"
 header:
   og_image: /assets/images/crowdfunding/crowdfunding-closed-1.png
