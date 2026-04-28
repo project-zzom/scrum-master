@@ -43,6 +43,8 @@ gallery:
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304705923" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
 <a href="https://www.yes24.com/Product/Goods/115143425" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
 
+{% include custom/affiliate.html %}
+
 {% include figure popup=true image_path="/assets/images/cover/cover-spread.jpg" %}{: .align-center}
 
 {% include gallery %}
