@@ -19,7 +19,6 @@ toc_sticky: true
 
 <a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327304887" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://link.coupang.com/a/ccyOfd" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/443611" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/pl3tb9" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 <a href="https://product.kyobobook.co.kr/detail/S000200083569" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
@@ -41,7 +40,6 @@ toc_sticky: true
 
 <a href="https://smartstore.naver.com/zzom/products/9369262815" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327309340" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://www.coupang.com/vp/products/7818693379" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/609763" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/nziyog" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 
@@ -56,7 +54,6 @@ toc_sticky: true
 <a href="http://zzom.io/planning-hwatu" target="_blank" class="btn btn--info">공식 페이지</a>
 <a href="https://smartstore.naver.com/zzom/products/7795982587" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327309342" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://www.coupang.com/vp/products/7818693397" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/526653" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/5h5eqy" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 

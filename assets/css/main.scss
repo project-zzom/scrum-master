@@ -1,0 +1,28 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__content {
+  font-size: 0.8rem; /* 기본값인 1rem(보통 16px)보다 작게 설정 */
+  ul, ol {
+    li {
+      margin-bottom: 0.2em; /* li 항목 간의 여백 조절 */
+    }
+  }
+
+  ul.toc__menu, ol {
+    li {
+      margin-bottom: 0em; /* li 항목 간의 여백 조절 */
+    }
+  }
+}
+
+.greedy-nav {
+  font-size: 0.8rem
+}
