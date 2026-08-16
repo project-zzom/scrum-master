@@ -172,7 +172,7 @@ gallery:
 </p>
 
 
-■ 글쓴이: 가메쿠라 히데토<br/>
+■ 그린이: 가메쿠라 히데토<br/>
 ![프로필 저자]({{ site.url }}{{ site.baseurl }}/assets/images/profile/profile-author (가메쿠라 히데토).jpg){: .align-center}
 * 일러스트레이터
 * <a href="https://www.instagram.com/kame_illustration/" target="_blank">https://www.instagram.com/kame_illustration/</a>
