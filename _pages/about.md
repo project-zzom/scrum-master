@@ -148,27 +148,27 @@ gallery:
 * <a href="https://x.com/nawoto" target="_blank">https://x.com/nawoto</a>
 
 <p>
-2005년부터 애자일 개발을 실천하고 있다. 익스트림 프로그래밍을 알고 주식회사 에이와 시스템 매니지먼트에서 팀 개발을 경험한 후로 '애자일 개발로 비즈니스에 기여하는 팀'을 만드는 데 힘을 쏟고 있다. 도서 『The Agile Samurai』１의 일본어판 감수를 시작으로 '스크럼 부트 캠프 프리미엄'이라는 입문자용 연수 프로그램과 각종 행사를 운영하고 있으며, 현장에 애자일이 확산되도록 돕고 있다
+2005년부터 애자일 개발을 실천하고 있다. 익스트림 프로그래밍을 알고 주식회사 에이와 시스템 매니지먼트에서 팀 개발을 경험한 후로 '애자일 개발로 비즈니스에 기여하는 팀'을 만드는 데 힘을 쏟고 있다. 도서 『The Agile Samurai』의 일본어판 감수를 시작으로 '스크럼 부트 캠프 프리미엄'이라는 입문자용 연수 프로그램과 각종 행사를 운영하고 있으며, 현장에 애자일이 확산되도록 돕고 있다.
 </p>
 
 ■ 글쓴이: 나가세 미호<br/>
 ![프로필 저자]({{ site.url }}{{ site.baseurl }}/assets/images/profile/profile-author (나가세 미호).jpg){: .align-center}
-* 주식회사 아트랙터 공동창업자 겸 CBO / 에자일 코치
+* 주식회사 아트랙터 공동창업자 겸 CBO / 애자일 코치
 * <a href="https://about.me/miho" target="_blank">https://about.me/miho</a>
 * <a href="https://x.com/miholovesq" target="_blank">https://x.com/miholovesq</a>
 
 <p>
-아웃소싱 개발 현장에서는 소프트웨어 엔지니어, 소속 조직에서는 관리자의 입장에서 애자일을 실천하고 있다. 애자일 도입 지원, 교육 및 연수, 코칭을 하면서 대학 강의와 커뮤니티 활동에도 힘을 쏟고 있다. 스크럼 얼라이언스가 공인하는 스크럼 프로페셔널(CSP), 스크럼 마스터(CSM), 스크럼 프로덕트 오너(SCPO)를 비롯하여 애자일 리더십(CAL1), 프로젝트 매니지먼트 프로패셔널(PMP) 자격을 보유했다. 산업기술대학원 대학특임준교수, 동경공업대학, 쓰쿠바대학, 류큐대학 시간 강사와 사단법인 '스크럼 게더링 동경실행위원회'에서 이사를 맡고 있다. 도서 『SCRUM BOOT CAMP THE BOOK』를 집필하고, 『Become an Effective Software Engineering Manager』, 『Agile for Everybody』,『Beyond Legacy Code』, 『Agile Coaching』, 『Joy, Inc.』를 번역했다.
+아웃소싱 개발 현장에서는 소프트웨어 엔지니어, 소속 조직에서는 관리자의 입장에서 애자일을 실천하고 있다. 애자일 도입 지원, 교육 및 연수, 코칭을 하면서 대학 강의와 커뮤니티 활동에도 힘을 쏟고 있다. 스크럼 얼라이언스가 공인하는 스크럼 프로페셔널(CSP), 스크럼 마스터(CSM), 스크럼 프로덕트 오너(CSPO)를 비롯하여 애자일 리더십(CAL1), 프로젝트 매니지먼트 프로페셔널(PMP) 자격을 보유했다. 산업기술대학원 대학특임준교수, 동경공업대학, 쓰쿠바대학, 류큐대학 시간 강사와 사단법인 '스크럼 게더링 동경실행위원회'에서 이사를 맡고 있다. 도서 『SCRUM BOOT CAMP THE BOOK』를 집필하고, 『Become an Effective Software Engineering Manager』, 『Agile for Everybody』,『Beyond Legacy Code』, 『Agile Coaching』, 『Joy, Inc.』를 번역했다.
 </p>
 
 ■ 글쓴이: 요시바 류타로<br/>
 ![프로필 저자]({{ site.url }}{{ site.baseurl }}/assets/images/profile/profile-author (요시바 류타로).jpg){: .align-center}
-* 주식회사 아트랙터 공동창업자 겸 CTO / 에자일 코치
+* 주식회사 아트랙터 공동창업자 겸 CTO / 애자일 코치
 * <a href="https://www.ryuzee.com" target="_blank">https://www.ryuzee.com</a>
 * <a href="https://x.com/ryuzee" target="_blank">https://x.com/ryuzee</a>
 
 <p>
-애자일 개발, 데브옵스, 클라우드 컴퓨팅에 관한 컨설팅과 교육 훈련을 하고 있다. 노무라종합연구소, AWS를 거쳐 주식회사 아트랙터를 창업했다. 스크럼 얼라이언스가 공인하는 팀 코치(CTC), 스크럼 프로페셔널(CSP), 스크럼 마스터(CSM), 스크럼 프로덕트 오너(SCPO)을 비롯하여 애자일 리더십(CAL1) 자격을 보유하고 마이크로소프트 MVP Azure , 아오야마학원대학 시간 강사를 맡고 있다. 도서 『업무 시스템 클라우드 이행의 정석』를 집필하고, 『Become an Effective Software Engineering Manager』, 『Agile for Everybody』, 『Beyond Legacy Code』, 『Effective DevOps』, 『Joy, Inc.』를 번역했다.
+애자일 개발, 데브옵스, 클라우드 컴퓨팅에 관한 컨설팅과 교육 훈련을 하고 있다. 노무라종합연구소, AWS를 거쳐 주식회사 아트랙터를 창업했다. 스크럼 얼라이언스가 공인하는 팀 코치(CTC), 스크럼 프로페셔널(CSP), 스크럼 마스터(CSM), 스크럼 프로덕트 오너(CSPO)를 비롯하여 애자일 리더십(CAL1) 자격을 보유하고 마이크로소프트 MVP Azure , 아오야마학원대학 시간 강사를 맡고 있다. 도서 『업무 시스템 클라우드 이행의 정석』를 집필하고, 『Become an Effective Software Engineering Manager』, 『Agile for Everybody』, 『Beyond Legacy Code』, 『Effective DevOps』, 『Joy, Inc.』를 번역했다.
 </p>
 
 
@@ -179,7 +179,7 @@ gallery:
 * <a href="https://www.flickr.com/photos/116337424@N07/" target="_blank">https://www.flickr.com/photos/116337424@N07/</a>
 
 <p>
-1967년생 북해도에서 태어났다7년에 디자인 회사에 입사한 후, 2002년에는 일러스트레이터로 독립했다. 음악 관련 포스터나 CD 재킷부터 각종 팸플릿이나 리플릿, 각종 도서의 삽화나 기업의 신문 광고 일러스트에 이르기까지 폭넓게 활동하고 있다.
+1967년생 북해도에서 태어났다. 1987년에 디자인 회사에 입사한 후, 2002년에는 일러스트레이터로 독립했다. 음악 관련 포스터나 CD 재킷부터 각종 팸플릿이나 리플릿, 각종 도서의 삽화나 기업의 신문 광고 일러스트에 이르기까지 폭넓게 활동하고 있다.
 </p>
 
 ■ 옮긴이: 신상재 (번역하는 개발자)<br/>
@@ -420,7 +420,7 @@ gallery:
 
 ■ 지윤정 (일하는 우리 대표)
 ![프로필 지윤정]({{ site.url }}{{ site.baseurl }}/assets/images/profile/profile-beta-reader (지윤정).jpg){: .align-center}
-> 이 책을 읽으면서 처음 내가 스크럼을 알게 되었을 때가 많이 생각났다. CSPO(Certified Scrum Product Owner) 과정１을 통해 스크럼의 이론은 어느 정도 알게 되었으나, 실제 업무에 스크럼을 어떻게 적용해야 할지는 막막했다. 그래서 더 많은 책을 읽고, 더 많은 사례를 찾아봤지만, 희한하게도 정말 단순하게 월요일부터 금요일까지, 스크럼 하는 일상을 제대로 알려주는 곳이 없었다.
+> 이 책을 읽으면서 처음 내가 스크럼을 알게 되었을 때가 많이 생각났다. CSPO(Certified Scrum Product Owner) 과정을 통해 스크럼의 이론은 어느 정도 알게 되었으나, 실제 업무에 스크럼을 어떻게 적용해야 할지는 막막했다. 그래서 더 많은 책을 읽고, 더 많은 사례를 찾아봤지만, 희한하게도 정말 단순하게 월요일부터 금요일까지, 스크럼 하는 일상을 제대로 알려주는 곳이 없었다.
 
 > 그런데 이 책은 비록 가상의 예시이기는 하지만 만화를 통해 그 누구보다도 생생하게 실제로 스크럼을 하는 팀이 어떻게 일하는지 알려주고 있다. 오히려 가상의 예시라 좀 더 유연하게 각자의 업무 환경에 맞게 상상해볼 여지가 있는 듯하기도 하다. 책의 초반은 스크럼의 기본적인 구조와 이론을 간단히 설명하고, 후반부는 진짜로 스크럼을 해본 사람들만이 할 수 있는 질문에 대한 팁으로 구성되어 있는데, 그 질문과 팁 모두가 정말 그 어떤 책에서도 알려주지 않았던 내용이라 가려운 곳을 시원하게 긁어주는 기분이었다. 큰 용기를 내고 스크럼을 도입하긴 했으나 하루하루가 낯설고 어색해 스크럼을 놓아버리고 싶다면, 이 책을 읽어보길 추천한다.
 
