@@ -3,15 +3,15 @@ permalink: /errata/
 title: "정오표"
 excerpt: "잘못된 부분 바로 잡습니다"
 header:
-  og_image: /assets/images/thumbnail/girl-reading-book-white-hoodie.png
-  overlay_image: /assets/images/header/header-github-pages.png
+  og_image: /assets/images/thumbnail/girl-reading-book-white-hoodie-1024x1024.jpg
+  overlay_image: /assets/images/header/header-github-pages-1280x500.jpg
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
 ---
 ## 오탈자 안내
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/thumbnail/girl-reading-book-white-hoodie.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thumbnail/girl-reading-book-white-hoodie-1024x1024.jpg)
 
 ### 오탈자 현황
 읽는 데 불편드려 죄송합니다.<br/>

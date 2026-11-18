@@ -4,7 +4,7 @@ title: "도서 정보"
 excerpt: "한 번은 겪게 될 스크럼 프로젝트 간접 체험 스토리"
 header:
   og_image: /assets/images/cover/cover-front-ko.jpg
-  overlay_image: /assets/images/header/header-github-pages.png
+  overlay_image: /assets/images/header/header-github-pages-1280x500.jpg
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
@@ -88,8 +88,8 @@ gallery:
 
 
 ### 상세 페이지
-![상세 페이지 1]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail-page (type 1).png)
-![상세 페이지 2]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail-page (type 2).png)
+![상세 페이지 1]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail-page (type 1)-1180x4800.jpg)
+![상세 페이지 2]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail-page (type 2)-860x12614.jpg)
 
 ### 원서 정보
 
@@ -190,21 +190,21 @@ gallery:
 
 ## 미리보기
 
-{% include figure popup=true image_path="/assets/images/preview/preview-01.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-02.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-03.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-04.png" %}{: .align-center}
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-01.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-01-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-02.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-02-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-03.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-03-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-04.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-04-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
 {% include figure popup=true image_path="/assets/images/preview/preview-05.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-06.png" %}{: .align-center}
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-06.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-06-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
 {% include figure popup=true image_path="/assets/images/preview/preview-07.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-08.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-09.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-10.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-11.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-12.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-13.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-14.png" %}{: .align-center}
-{% include figure popup=true image_path="/assets/images/preview/preview-15.png" %}{: .align-center}
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-08.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-08-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-09.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-09-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-10.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-10-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-11.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-11-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-12.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-12-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-13.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-13-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-14.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-14-1600x1132.jpg' | relative_url }}" alt=""></a></figure>
+<figure class="align-center"><a href="{{ '/assets/images/preview/preview-15.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/preview/preview-15-1600x1135.jpg' | relative_url }}" alt=""></a></figure>
 
 ## 목차
                

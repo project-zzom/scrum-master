@@ -3,19 +3,19 @@ permalink: /shop/
 title: "구매처"
 excerpt: "가장 편한 시간에 가장 좋은 방법으로 구매하세요"
 header:
-  og_image: /assets/images/thumbnail/girl-holding-box-blue-hoodie.png
-  overlay_image: /assets/images/header/header-github-pages.png
+  og_image: /assets/images/thumbnail/girl-holding-box-blue-hoodie-1024x1024.jpg
+  overlay_image: /assets/images/header/header-github-pages-1280x500.jpg
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
 ---
 ## 판매 채널 안내
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/thumbnail/girl-holding-box-blue-hoodie.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thumbnail/girl-holding-box-blue-hoodie-1024x1024.jpg)
 
 ### 기본 도서
 
-![Book]({{ site.url }}{{ site.baseurl }}/assets/images/shop/scrum-master (1024 x 1024).png){: .align-center}
+![Book]({{ site.url }}{{ site.baseurl }}/assets/images/shop/scrum-master (1024 x 1024)-1024x1024.jpg){: .align-center}
 
 <a href="https://smartstore.naver.com/zzom/products/7616969339" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327304887" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
@@ -29,13 +29,13 @@ toc_sticky: true
 
 #### 개발자 팔찌
 
-![Wristband]({{ site.url }}{{ site.baseurl }}/assets/images/shop/developer-silicon-wristband (1024 x 1024).png){: .align-center}
+![Wristband]({{ site.url }}{{ site.baseurl }}/assets/images/shop/developer-silicon-wristband (1024 x 1024)-1024x1024.jpg){: .align-center}
 
 <a href="https://tumblbug.com/scrum-master" target="_blank" class="btn btn--info btn--small">텀블벅</a> 텀블벅 크라우드펀딩 전용 (비매품) 
 
 #### 스크럼 마스터 + 플래닝 화투 + 개발자 팔찌
 
-![Package]({{ site.url }}{{ site.baseurl }}/assets/images/shop/book + card + wristband (1024 x 1024).png){: .align-center}
+![Package]({{ site.url }}{{ site.baseurl }}/assets/images/shop/book + card + wristband (1024 x 1024)-1024x1024.jpg){: .align-center}
 
 <a href="https://smartstore.naver.com/zzom/products/9369262815" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327309340" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
@@ -43,7 +43,7 @@ toc_sticky: true
 
 #### 플래닝 화투 (한국형 플래닝 포커)
 
-![Planning Hwatu]({{ site.url }}{{ site.baseurl }}/assets/images/shop/planning-hwatu  (1024 x 1024).png){: .align-center}
+![Planning Hwatu]({{ site.url }}{{ site.baseurl }}/assets/images/shop/planning-hwatu  (1024 x 1024)-1024x1024.jpg){: .align-center}
 
 * 재질: 내구성이 강한 플라스틱 재질
 * 크기: 한 손에 쥐기 쉬운 화투 크기
@@ -56,7 +56,7 @@ toc_sticky: true
 
 #### 스크럼 포커 (애자일 포커)
 
-![Scrum Poker]({{ site.url }}{{ site.baseurl }}/assets/images/shop/scrum-poker.png){: .align-center}
+![Scrum Poker]({{ site.url }}{{ site.baseurl }}/assets/images/shop/scrum-poker-879x878.jpg){: .align-center}
 
 * 재질: 내구성이 약한 종이 재질
 * 크기: 한 손에 쥐기 힘든 트럼프 크기

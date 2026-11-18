@@ -4,8 +4,8 @@ title: "크라우드펀딩"
 canonical_url: "https://zzom.io/scrum-master/crowdfunding/"
 excerpt: "한 번은 겪게 될 스크럼 프로젝트 간접 체험 스토리"
 header:
-  og_image: /assets/images/crowdfunding/crowdfunding-closed-1.png
-  overlay_image: /assets/images/header/header-github-pages.png
+  og_image: /assets/images/crowdfunding/crowdfunding-closed-1-1086x959.jpg
+  overlay_image: /assets/images/header/header-github-pages-1280x500.jpg
   overlay_filter: 0.5
 ---
 
@@ -14,7 +14,7 @@ header:
 크라우드펀딩은 <a href="https://tumblbug.com/scrum-master" target="_blank">'텀블벅'</a>에서 진행되었습니다.
 달성률 120%로 목표를 달성했습니다!
 
-{% include figure popup=true image_path="/assets/images/crowdfunding/crowdfunding-closed-1.png" %}
+<figure class=""><a href="{{ '/assets/images/crowdfunding/crowdfunding-closed-1.png' | relative_url }}" class="image-popup"><img src="{{ '/assets/images/crowdfunding/crowdfunding-closed-1-1086x959.jpg' | relative_url }}" alt=""></a></figure>
 
 {% include figure popup=true image_path="/assets/images/crowdfunding/crowdfunding-closed-2.png" %}
 
