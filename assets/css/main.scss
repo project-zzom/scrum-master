@@ -26,3 +26,16 @@ search: false
 .greedy-nav {
   font-size: 0.8rem
 }
+
+/* 좁은 화면(사이드바가 본문 위로 쌓이는 1024px 미만)에서는
+   사이드바 배너를 본문 뒤로 보내 구매 버튼이 먼저 보이게 함 */
+@media (max-width: 1023px) {
+  #main {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #main > .sidebar {
+    order: 1;
+  }
+}
