@@ -91,7 +91,14 @@ gallery:
 
 ### 상세 페이지
 ![상세 페이지 1]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail-page (type 1)-1180x4800.jpg)
-![상세 페이지 2]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail-page (type 2)-860x12614.jpg)
+
+<figure class="align-center"><a href="{{ '/assets/images/detail/detail-page (type 2).png' | relative_url }}" class="image-popup">
+<img src="{{ '/assets/images/detail/detail-page (type 2)-01-860x2260.jpg' | relative_url }}" alt="" width="860" height="2260" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail-page (type 2)-02-860x2786.jpg' | relative_url }}" alt="" width="860" height="2786" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail-page (type 2)-03-860x2537.jpg' | relative_url }}" alt="" width="860" height="2537" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail-page (type 2)-04-860x2508.jpg' | relative_url }}" alt="" width="860" height="2508" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail-page (type 2)-05-860x2523.jpg' | relative_url }}" alt="" width="860" height="2523" loading="lazy" style="display:block;margin:0;border-radius:0">
+</a></figure>
 
 ### 원서 정보
 
