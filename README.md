@@ -10,6 +10,20 @@ bundle update
 bundle exec jekyll serve
 ```
 
+## 배포 후 공유 미리보기 확인
+표지, 설명 문구, 페이지 제목처럼 공유 정보(`og:*`)를 바꿨다면 배포 후 아래 순서로 확인합니다.
+
+1. 배포 결과 확인 (GitHub Pages 반영까지 몇 분 걸릴 수 있음)
+   ```
+   curl -sL https://zzom.io/scrum-master/about/ | grep -oE '<title>[^<]*</title>|<meta property="og:(title|description|image)"[^>]*>'
+   ```
+2. 카카오 캐시 초기화: https://developers.kakao.com/tool/debugger/sharing 에서 URL 입력 후 「캐시 초기화」
+3. 페이스북 다시 스크랩: https://developers.facebook.com/tools/debug/ 에서 URL 입력 후 「다시 스크랩」
+4. 카카오톡 「나에게 보내기」에 링크를 붙여 제목·설명·이미지 확인
+
+### 참고: `_includes/seo.html`
+테마 원본을 복사해 `og:title`, `twitter:title`이 「페이지 제목 - 사이트 제목」을 쓰도록 고친 파일입니다. 테마를 업데이트해도 이 파일은 자동으로 따라가지 않으니, 필요하면 새 원본을 받아 같은 두 줄만 다시 고칩니다.
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
